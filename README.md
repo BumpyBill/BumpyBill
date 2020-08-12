@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 👯 I’m looking to collaborate on all sorts of projects, although I mainly work on NPM projects
-- 🔭 I’m currently working on "Farming Simulator", it's a interactive Discord bot!
+- 👯 I’m looking to collaborate on all sorts of projects, although I mainly work on Node projects. But working on a Discord API wrapper would be great.
+- 🔭 I’m currently working on "Bumpy", it's yet another general purrpose bot.
 
 ---
 
