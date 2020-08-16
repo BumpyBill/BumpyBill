@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👯 I’m looking to collaborate on all sorts of projects, although I mainly work on NodeJS projects.
-- 🔭 I’m currently working on rewriting (Pulse)[https://github.com/Proximitynow19/Pulse]
+- 🔭 I’m currently working on rewriting [Pulse](https://github.com/Proximitynow19/Pulse)
 
 ---
 
